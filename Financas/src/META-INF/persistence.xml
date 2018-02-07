@@ -13,6 +13,8 @@
         <!-- Aqui são listadas todas as entidades -->
         <class>br.com.hibernando.financas.modelo.Conta</class>
         <class>br.com.hibernando.financas.modelo.Movimentacao</class>
+        <class>br.com.hibernando.financas.modelo.Categoria</class>
+        <class>br.com.hibernando.financas.modelo.Cliente</class>
 
         <properties>    
             <!-- Propriedades JDBC -->
